@@ -1,0 +1,6 @@
+##HARDWARE:
+- São as partes fisicas do computador, como por exemplo: pen drive, celular, cpu, chip.
+
+##SOFTWARE:
+- São o conjunto de instruções, programas ou apps que ordenam as tarefas a serem realizadas por um aparato eletromecanicos como celular, tablet, tv, notebook etc.
+- Tipos de software: sistema, aplicação e progrgramação

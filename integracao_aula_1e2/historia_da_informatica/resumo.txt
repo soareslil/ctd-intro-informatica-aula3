@@ -1,0 +1,8 @@
+História da Informática: 
+
+- Ao pensar em computador, computação, informática e no universo da programação temos: 
+
+1. ABACO: Desenvolvido na China para realizar operações matemáticas a.C, sendo uma das principais funcionalidades utilizadas nos computadores.
+2. Funcionalidades do computador: realizar cálculos complexos, conectar pessoas, armazenar informações
+3. O primeiro algortmo foi criado por uma mulher: Ada Lovelace junto com as operadoras do super computador ENIAC, primeiras programadoras da história #goGirls
+4. Evolução dos computadores: inicio em 1970, atualizada em 1980, 1990, 2000, 2010, ultima atualização em 2015

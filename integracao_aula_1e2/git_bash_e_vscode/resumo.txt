@@ -1,0 +1,19 @@
+##GitBash 
+- É um tipo de terminal
+- É possivel instalar o gitbash no Windows, Mac e Linux
+- Pelo terminal trabalhamos com inputs e outputs, definindo instruções e ordens
+- TUDO que fazemos com o mouse é possivel fazer pelo terminal
+
+##Terminal 
+- Terminal no Windows: na aba 'digite aqui para pesquisar' basta pesquisar por "cmd" que irá mostrar o 'prompt de comando' (terminal windows)
+- Terminal no Mac: Pressione as teclas command + space para abrir o terminal
+- Terminal no Linux: Pressione as teclas Ctrl + Alt + T ou pesquisar por terminal
+
+##VsCode
+- O  VsCode é um IDE ( Ambiente de Desenvolvimento Integrado ),
+- Foi desenvolvido pela Microsoft, 
+- É possivél instalar diversas extensões para facilitar o desenvolvimento de software
+- É o IDE mais (ou um dos) utilizados do mundo
+- É compativel com os sistemas operacionais windows, linux e mac
+- É possivel criar arquivos, salvar e editar, atualizar e abrir terminais
+- Existem diversos atalhos para facilitar a utilização, e salvar tempo dos programadores

@@ -1,0 +1,10 @@
+Existem 2 tipos de interfaces:
+
+1- Interface CLI: Command Line Interface utilizada por profissionais de TI
+1.1 - Exige conhecimento técnico 
+1.2 - São complexas
+
+2- Interface GUI: Graphical Interface User utilizada por consumidores/usuários
+2.1 - Não exige conhecimento técnico para seu usuários
+2.2 - São intuitivas 
+2.3 - Exibem diversas imagens e graficos para facilitar a usabilidade

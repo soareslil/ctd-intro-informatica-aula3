@@ -1,0 +1,11 @@
+REFERENCIAS UTILIZADAS NA AULA PELO PROFESSOR
+
+https://insper.github.io/Z01.1/Teoria-Linguagem-de-Maquina/
+- https://trustonailende.com/programming-languages/
+- https://www.learnpython.org/en/Hello%2C_World%21
+- https://www.javatpoint.com/pt/primeiro-programa-em-java
+
+- https://novaescola.org.br/conteudo/4593/voce-sabe-a-diferenca-entre-software-livre-e-
+codigo-aberto
+
+- https://www.hostinger.com.br/tutoriais/o-que-e-cli
